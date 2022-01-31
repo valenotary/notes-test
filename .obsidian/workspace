@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Merp.md",
-            "mode": "source"
+            "file": "First Note.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -18,61 +19,77 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "46b4398a00a3877c",
-    "type": "mobile-drawer",
+    "id": "1e0967a849656bf6",
+    "type": "split",
     "children": [
       {
-        "id": "897e7a4a1ecb298b",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "a49bf09c7940791e",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "4c3954dcd33fac85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4a15e0b89cf01e1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "75316fed95f8b435",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "079283713223e1a0",
-    "type": "mobile-drawer",
+    "id": "6d32a3d941e271a6",
+    "type": "split",
     "children": [
       {
-        "id": "68b2792e6bedd557",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Merp.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "9583f5676f5936ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd3954512823ff85",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "First Note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "1e4138c2c3395258",
   "lastOpenFiles": [
+    "First Note.md",
     "Merp.md"
   ]
 }
